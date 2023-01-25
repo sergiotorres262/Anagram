@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-
-cadena1 = "escalonamiento"
-cadena2 = "ocasionalmente"
+print("Enter the first word")
+cadena1 = input()
+print("Enter the second word")
+cadena2 = input()
 dicc1 = {}
 dicc2 = {}
 
