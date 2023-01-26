@@ -7,6 +7,8 @@ dicc1 = {}
 dicc2 = {}
 
 def isAnagram(cadena1,cadena2, dicc1, dicc2):
+    cadena1.strip()
+    cadena2.strip()
     ayCadena1 = [char for char in cadena1.lower()]
     ayCadena2 = [char for char in cadena2.lower()]
     for i in range(len(cadena1)):
