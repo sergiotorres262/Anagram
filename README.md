@@ -22,8 +22,15 @@ Note: If the two strings have different lengths, the program will automatically 
 
 ### Output:
 
-{'e': 2, 's': 1, 'c': 1, 'a': 2, 'l': 1, 'o': 2, 'n': 2, 'm': 1, 'i': 1, 't': 1}
+True
 
-{'o': 2, 'c': 1, 'a': 2, 's': 1, 'i': 1, 'n': 2, 'l': 1, 'm': 1, 'e': 2, 't': 1}
+
+## Example 2
+
+  Input:
+  cadena1 = "escalonamiento zxc"
+  cadena2 = "ocasionalmente cxz"
+
+### Output:
 
 True
